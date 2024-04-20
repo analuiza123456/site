@@ -1,0 +1,44 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+}
+      
+.cabecalho{
+    background-color: #FF6896;
+    color: white;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+    .MAKE-UP-imagem{
+        width: 25%;
+    }
+.MAKE-UP{
+  background-image:linear-gradient(#FF6896,white);
+  color:white;
+  display:flex ; 
+  justify-content: center;
+  align-items: center;
+  padding: 24px 0;
+}
+.MAKE-UP-div-conteudo{
+    width: 35%;
+}
+.MAKE-UP-titulo{
+    padding: 24px 0;
+}
